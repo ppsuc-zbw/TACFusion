@@ -22,3 +22,18 @@ use command `python setup.py install` or `python setup.py develop` to compile th
 
 <img src="images//M3FDDetect.png" width="90%" align=center />
 
+
+The code references the following article:
+@inproceedings{ZhaoDIDFuse2020,
+  author    = {Zixiang Zhao and
+               Shuang Xu and
+               Chunxia Zhang and
+               Junmin Liu and
+               Jiangshe Zhang and
+               Pengfei Li},
+  title     = {DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion},
+  booktitle = {{IJCAI}},
+  pages     = {970--976},
+  publisher = {ijcai.org},
+  year      = {2020}
+}

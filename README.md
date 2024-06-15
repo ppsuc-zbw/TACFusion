@@ -1,10 +1,13 @@
 # TACFusion
-This is the code for the paper：Target-aware Infrared and Visible Image Fusion Network via Co-encoding and United Optimization
+This is the code for the paper：Target-aware Infrared and Visible Image Fusion Network via Co-encoding and United Optimization.
+
 ## Test
-`python test_Fusion.py`
+Download the model package `Epoch60.pkl` from Baidu Cloud Drive at `https://pan.baidu.com/s/13rejKAdukxT147-GmBsAMw?pwd=yc00` with `CODE: yc00` and place it in the root directory.
+
+`python Test.py`
 
 ## Train
-`python train.py`
+`python Train.py`
 
 ## Usage
 Some CUDA operators here may need to be recompiled, `cd src` or ` cd DCN`,

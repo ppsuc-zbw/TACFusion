@@ -12,10 +12,10 @@ use command `python setup.py install` or `python setup.py develop` to compile th
 
 ### Qualitative fusion results.
 
-<img src="image//Qualitative.png" width="90%" align=center />
+<img src="images//M3FDDetails.png" width="90%" align=center />
 
 
-### Quantitative  fusion results.
+### Qualitative detection results.
 
-<img src="image//Quantitative.png" width="90%" align=center />
+<img src="images//M3FDDetect.png" width="90%" align=center />
 
